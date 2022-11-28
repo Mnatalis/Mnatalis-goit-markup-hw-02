@@ -14,7 +14,7 @@
  body {
     color:var(--primary-text-color);
     background-color: #FFFFFF;
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 }
  ul {
      list-style: none;
@@ -30,7 +30,7 @@ font-family: Roboto, sans-serif;
 .logo-partsecond 
     {
     color:rgba(33, 33, 33, 1);
-    font-family: Raleway, cursive;
+    font-family: "Raleway", cursive;
 }
 .site-nav {
     color: var(--primary-text-color);
