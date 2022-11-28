@@ -20,7 +20,9 @@ font-family: "Roboto", sans-serif;
  ul {
      list-style: none;
  }
-
+a {
+    text-decoration:none;
+}
  /*  HEADER  */
  /* logo */
 .logo-partone
@@ -69,6 +71,7 @@ font-style: Medium;
      font-size: 16px;
       line-height: 1.9;
     font-family: inherit;
+    border: none;
 }
 .hero-title {
     color: rgba(255, 255, 255, 1);
@@ -167,6 +170,7 @@ font-family: inherit;
 font-style: medium;
  font-size: 16px;
   line-height: 1.6;
+border: none;
 }
 .button-project:hover,
 .button-project:focus{
@@ -180,6 +184,7 @@ background-color: rgba(33, 150, 243, 1);
             font-style: medium;
             font-size: 16px;
             line-height: 1.6;
+            border: none;
 }
 .caption-project {
 font-style: bold;
