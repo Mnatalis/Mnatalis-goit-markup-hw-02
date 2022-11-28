@@ -15,6 +15,7 @@
     color:var(--primary-text-color);
     background-color: #FFFFFF;
 font-family: "Roboto", sans-serif;
+    letter-spacing: 0.03em;
  
 }
  ul {
@@ -43,6 +44,7 @@ nav{
 font-style: Medium;
     font-size: 14px;
     line-height: 1.14;
+    letter-spacing: 0.02em;
 }
 .site-nav {
     color: var(--primary-text-color);
@@ -72,6 +74,7 @@ font-style: Medium;
       line-height: 1.9;
     font-family: inherit;
     border: none;
+    letter-spacing: 0.06em;
 }
 .hero-title {
     color: rgba(255, 255, 255, 1);
@@ -80,6 +83,7 @@ font-style: Medium;
      font-size: 44px;
       line-height: 1.36;
     text-align:center;
+    letter-spacing: 0.06em;
 }
  
 /* OUR ADVANTAGES */
@@ -190,6 +194,7 @@ background-color: rgba(33, 150, 243, 1);
 font-style: bold;
 font-size: 18px;
     line-height: 2;
+    letter-spacing: 0.06em;
 }
 .text-project {
     color: rgba(117, 117, 117, 1);
